@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-image: url(/img/b800f523231e10f4fc8af784e8ef4711.png);
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1307/pink_night-Nature_landscape_HD_Wallpaper_1366x768.jpg);
     font-family: 'Garamond';
     
 }
@@ -12,7 +12,7 @@ body{
 .caculadora-config{
     width: 80%;
     height: auto;
-    background-color: rgba(52, 0, 112, 0.342);
+    background-color: rgba(141, 45, 0, 0.404);
     margin: 0 auto;
     text-align: center;
     
@@ -79,7 +79,7 @@ input[type=number]::-webkit-inner-spin-button {
     width: 23px;
     height: 24px;
     border-radius: 50%; 
-    background: rgb(119, 0, 255);
+    background: rgba(141, 45, 0);
     cursor: pointer;
   }
   
